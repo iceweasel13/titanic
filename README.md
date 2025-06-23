@@ -21,7 +21,7 @@ To run this project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/iceweasel13/titanic.git
+git clone https://github.com/iceweasel13/titanic-prediction.git
 cd titanic
 
 # (Optional) Create a virtual environment
@@ -76,7 +76,7 @@ Try it online:
 ## 📁 Project Structure
 
 ```
-titanic/
+titanic-prediction/
 ├── app.py                # Streamlit app
 ├── model.pkl             # Trained ML model
 ├── requirements.txt      # Dependencies
