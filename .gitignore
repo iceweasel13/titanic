@@ -1,0 +1,21 @@
+# Python ortam dosyaları
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment (venv)
+.venv/
+venv/
+
+# Streamlit temporary files
+.streamlit/
+
+# IDE dosyaları
+.vscode/
+*.log
+
+# Jupyter notebook dosya kontrolleri
+.ipynb_checkpoints/
+
+# Model dosyası
+model.pkl
